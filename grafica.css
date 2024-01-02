@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  padding-top: 30px;
+}
+.container{
+  width: 50%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.60);
+  border-radius: 30px;
+  padding: 50px;
+}
+
+header >h1{
+  font-family: 'Poppins', sans-serif;
+  color: #04dd00;
+  font-size: 30px;
+  text-align: center;
+}
+#logo{
+  width: 250px;
+  margin-left: 36%;
+}
+
+.container-nav{
+  padding: 10px;
+  background-color: #04dd00;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.nomemonopattino1{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.via-e-metri{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 18px;
+}
+.stato-carica{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 18px;
+}
+.batteria1{
+  width: 350px;
+  background-color: orange;
+  border-radius: 10px;
+  color: orange;
+  padding: 7px;
+}
+
+.nomemonopattino2{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.batteria2{
+  width: 500px;
+  background-color: #04dd00;
+  border-radius: 10px;
+  color: #04dd00;
+  padding: 7px;
+}
+
+.nomemonopattino3{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.batteria3{
+  width: 200px;
+  background-color: #be4142;
+  border-radius: 10px;
+  color: #be4142;
+  padding: 7px;
+}
